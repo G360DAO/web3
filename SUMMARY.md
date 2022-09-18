@@ -5,4 +5,5 @@
 * [Blockchain](blockchain.md)
 * [Smart Contracts](smart-contracts.md)
 * [Decentralized Autonomous Organization](decentralized-autonomous-organization.md)
+* [Join G360DAO!](join-g360dao.md)
 * [Get in touch!](get-in-touch.md)
